@@ -1,0 +1,14 @@
+# 環境変数ファイル
+/.env
+
+# 初期データベース設定
+/initdb/
+
+# PostgreSQL関連
+/postgres/
+
+# SSH関連ファイル
+/ssh/
+
+# ワークスペースフォルダ
+/workspace/
